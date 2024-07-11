@@ -9,7 +9,6 @@ terraform {
 
 provider "aws" {
   region  = var.aws_region
-  profile = "dirk.effectual"
 
   default_tags {
     tags = {
