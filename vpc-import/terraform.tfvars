@@ -29,7 +29,8 @@ public_subnets = {
 #----------------------------------------------------
 route_tables = [
   "Dev Web Route",
-  "OEA-Dev-VPC_VR-Mgmt"
+  "OEA-Dev-VPC_VR-Mgmt",
+  "New Route Table"
 ]
 
 tags = {
